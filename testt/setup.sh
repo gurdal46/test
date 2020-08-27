@@ -1,9 +1,2 @@
 wget --no-check-certificate https://raw.githubusercontent.com/gurdal46/test/master/testt/3proxy
 wget --no-check-certificate https://raw.githubusercontent.com/gurdal46/test/master/testt/3proxy.sh
-wget --no-check-certificate https://raw.githubusercontent.com/gurdal46/test/master/testt/installer
-wget --no-check-certificate https://raw.githubusercontent.com/gurdal46/test/master/testt/ndppd
-wget --no-check-certificate https://raw.githubusercontent.com/gurdal46/test/master/testt/ndppd.conf
-wget --no-check-certificate https://raw.githubusercontent.com/gurdal46/test/master/testt/proxy.h
-wget --no-check-certificate https://raw.githubusercontent.com/gurdal46/test/master/testt/random.sh
-wget --no-check-certificate https://raw.githubusercontent.com/gurdal46/test/master/testt/rotatet.sh	
-wget --no-check-certificate https://raw.githubusercontent.com/gurdal46/test/master/testt/veriler.list
